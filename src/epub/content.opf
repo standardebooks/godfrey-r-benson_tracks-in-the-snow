@@ -59,7 +59,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/godfrey-rathbone-benson_tracks-in-the-snow</meta>
 		<dc:creator id="author">Godfrey Rathbone Benson</dc:creator>
 		<meta property="file-as" refines="#author">Benson, Godfrey Rathbone</meta>
-		<meta property="se:name.person.full-name" refines="#author">Godfrey Rathbone Benson</meta>
+		<meta property="se:name.person.full-name" refines="#author">Godfrey Rathbone Benson, 1st Baron Charnwood</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Godfrey_Benson,_1st_Baron_Charnwood</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n89600070</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
