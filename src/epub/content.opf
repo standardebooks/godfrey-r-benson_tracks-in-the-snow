@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-30T00:20:23Z</dc:date>
+		<meta property="dcterms:modified">2025-01-30T00:20:23Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,14 +56,14 @@
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;On the day after visiting his friend Peters, Rector Driver learns that Peters has been murdered. The prime suspect seems clear: the alcoholic gardener Trethewy, who has a motive, an opportunity, and the murder weapon. But when a strange letter concerning the fate of the ship &lt;i&gt;Eleanor&lt;/i&gt; arrives for his dead friend, the rector realizes the murder mystery is more complicated than what it initially appears to be.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/godfrey-r-benson"&gt;Godfrey R. Benson&lt;/a&gt;, 1st Baron Charnwood, was an English writer whose works consisted primarily of political essays and bibliographies of famous leaders. &lt;i&gt;Tracks in The Snow&lt;/i&gt; stands out from his publications as being the only work of fiction, as well as that of detective genre. Traces of his nonfiction writing style can be found in the work with its larger focus on illustrating a fictional murderer’s cunning mind over depicting a logic puzzle that was commonly found in detective fiction around the time period.&lt;/p&gt;
+			&lt;p&gt;On the day after visiting his friend Peters, Rector Driver learns that Peters has been murdered. The prime suspect seems clear: the alcoholic gardener Trethewy, who has a motive, an opportunity, and the murder weapon. But when a strange letter concerning the fate of the ship &lt;i&gt;Eleanor&lt;/i&gt; arrives for his dead friend, the rector realizes the murder mystery is more complicated than it appears.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/godfrey-r-benson"&gt;Godfrey R. Benson’s&lt;/a&gt; works consist primarily of political essays and biographies of historical figures. &lt;i&gt;Tracks in The Snow&lt;/i&gt; stands out as being his only work of fiction. Traces of his nonfiction writing style can be found in the novel, with its focus on illustrating a murderer’s cunning mind instead of depicting a logic puzzle as was common in contemporary detective fiction.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73711</dc:source>
 		<dc:source>https://archive.org/details/tracksinsnowbei00unkngoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">57670</meta>
+		<meta property="se:reading-ease.flesch">62.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tracks_in_the_Snow_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/godfrey-r-benson_tracks-in-the-snow</meta>
 		<dc:creator id="author">Godfrey R. Benson</dc:creator>
@@ -89,6 +89,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
