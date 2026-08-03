@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow</dc:identifier>
 		<dc:date>2025-01-30T00:20:23Z</dc:date>
@@ -56,11 +56,11 @@
 		<meta property="schema:genre">Mystery</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A rector investigates the mystery behind a strange letter that may be connected to his friend’s murder.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;On the day after visiting his friend Peters, Rector Driver learns that Peters has been murdered. The prime suspect seems clear: the alcoholic gardener Trethewy, who has a motive, an opportunity, and the murder weapon. But when a strange letter concerning the fate of the ship &lt;i&gt;Eleanor&lt;/i&gt; arrives for his dead friend, the rector realizes the murder mystery is more complicated than it appears.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/godfrey-r-benson"&gt;Godfrey R. Benson’s&lt;/a&gt; works consist primarily of political essays and biographies of historical figures. &lt;i&gt;Tracks in The Snow&lt;/i&gt; stands out as being his only work of fiction. Traces of his nonfiction writing style can be found in the novel, with its focus on illustrating a murderer’s cunning mind instead of depicting a logic puzzle as was common in contemporary detective fiction.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73711</dc:source>
 		<dc:source>https://archive.org/details/tracksinsnowbei00unkngoog</dc:source>
