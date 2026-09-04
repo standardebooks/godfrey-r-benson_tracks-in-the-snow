@@ -37,11 +37,11 @@
 		<dc:title id="fulltitle">Tracks in the Snow: Being the History of a Crime</dc:title>
 		<meta property="file-as" refines="#fulltitle">Tracks in the Snow</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Criminal investigation -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Criminal investigation--Fiction</dc:subject>
 		<dc:subject id="subject-2">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-3">England -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Clergy -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Murder -- Investigation -- Fiction</dc:subject>
+		<dc:subject id="subject-3">England--Fiction</dc:subject>
+		<dc:subject id="subject-4">Clergy--Fiction</dc:subject>
+		<dc:subject id="subject-5">Murder--Investigation--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
